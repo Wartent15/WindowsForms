@@ -1,0 +1,10 @@
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.AssemblyReference.cache
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Artemik\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
